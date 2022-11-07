@@ -14,17 +14,17 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: 
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Ethan Nguyen                          # the main title
 
-tagline: Various Intrests in my Life   # it will display as the sub-title
+tagline: Various Interests in my Life   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  My profile
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ethannguyen.github.io'
@@ -38,7 +38,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Ethan An Quan Nguyen
+  name: Ethan Anh Quan Nguyen
   email: ethannguyen168@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "C:\Users\ethan\Pictures\Ethan Nguyen Headshot.jpeg"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
